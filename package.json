@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "name": "svg-logo-maker",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+      "jest": "^29.5.0"
+    },
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/UsaidAl/The-SVG-Logo-Maker"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
