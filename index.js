@@ -42,4 +42,5 @@ inquirer.prompt(questions).then((responses) => {
   var svg = new SVG(shape, text);
 
   fs.writeFileSync(path.join(process.cwd(), "template.svg"), svg.render());
+  (console.log('Generated template.svg'));
 });

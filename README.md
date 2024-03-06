@@ -18,3 +18,6 @@ SVG Logo Maker is a command-line interface (CLI) application built using Node.js
 3. Run the application using 'npm run start'.
 4. Follow the prompts to create your SVG logo.
 5. Find your generated logo as 'template.svg'.
+
+![screenshot](./screenshots/Questions.png)
+![screenshot](./screenshots/Test.png)
